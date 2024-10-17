@@ -1,0 +1,801 @@
+Câu 1.	Bộ nhớ RAM được viết tắt cho cụm từ
+*A. Random Access Memory
+B. Read Access Memory
+C. Rewrite Access Memory
+D.Receive Access Memory
+Câu 2.	Thiết bị nào lưu trữ dữ liệu được nạp vào bởi nhà sản xuất
+A. RAM
+*B. ROM 
+C. CPU 
+D. Cả 3 câu trên đều đúng
+Câu 3.	Chức năng của CPU là: 
+A. Lưu trữ thông tin	
+*B. Xử lý thông tin	
+C. Kết xuất thông tin
+D. Tất cả đều sai
+Câu 4.	Bộ nhớ RAM 
+A. Là bộ nhớ chỉ đọc
+*B. Là bộ nhớ truy xuất ngẫu nhiên 
+C. Là bộ nhớ ngoài
+D. Tất cả đều đúng
+Câu 5.	Bộ nhớ ROM là: 
+A. Bộ nhớ truy xuất ngẫu nhiên
+*B. Bộ nhớ trong chỉ đọc
+C. Bộ nhớ ngoài chỉ đọc
+D. Tất cả đều sai
+Câu 6.	Máy vi tính có các chức năng cơ bản sau:
+A. Lưu trữ  và xử lý dữ liệu
+B. Trao đổi dữ liệu
+C. Điều khiển
+*D. Tất cả các chức năng trên
+Câu 7.	Bộ xử lý trung tâm CPU được viết tắt cho cụm từ
+A. Center Processing Unit
+*B. Central Processing Unit
+C. Center Process Unit
+D. Central Processing Uniform
+Câu 8.	Bộ xử lý trung tâm CPU có 3 bộ phận chính là
+A. BU, ALU và các thanh ghi
+B. BU, CLU và các thanh ghi
+*C. CU, ALU và các thanh ghi
+D. CU, CLU và các thanh ghi
+Câu 9.	Khối ALU của bộ vi xử lý viết tắt cho cụm từ
+*A. Arithmetic Logic Unit
+B. Analog Logic Unit
+C. Access Logic Unit
+D. Tất cả đều sai
+Câu 10.	Tập các thanh ghi (registers) được gắn vào CPU làm nhiệm vụ
+A. Thực hiện các phép tính số học cho CPU
+*B. Là bộ nhớ trung gian cho CPU
+C. Giải mã các lệnh cho CPU
+D. Tất cả đều sai
+Câu 11.	Bộ nhớ trong của máy tính gồm
+A. RAM, ROM, CD
+*B. RAM, ROM
+C. RAM, ROM, USB
+D. RAM, ROM, CD, ổ cứng
+Câu 12.	Hệ thống Bus trong máy tính làm nhiệm vụ
+*A. Kết nối các thành phần trong máy tính
+B. Điều khiển các hoạt động cơ bản của máy tính
+C. Lưu trữ thông tin vào / ra cho CPU
+D. Chuyển đổi thông tin từ một dạng vật lý nào đó về dạng dữ liệu phù hợp với máy tính
+Câu 13.	Bộ nhớ RAM trong máy tính khác với bộ nhớ ROM như thế nào? 
+A. RAM có dung lượng bằng ROM 
+B. ROM có dung lượng lớn hơn RAM
+C. RAM là bộ nhớ chỉ đọc còn ROM là bộ nhớ truy xuất ngẫu nhiên 
+*D. RAM là bộ nhớ truy xuất ngẫu nhiên còn ROM là bộ nhớ chỉ đọc
+Câu 14.	Chức năng của bộ xử lý trung tâm CPU là: 
+A. Lưu trữ thông tin 
+B. Kết nối các thành phần trong máy tính
+C. Xử lý và lưu trữ thông tin 
+*D. Tất cả đều sai
+Câu 15.	Chương trình trong bộ nhớ ROM được nạp vào bởi
+A. Người sử dụng
+*B. Nhà sản xuất máy tính
+C. Nhà sản xuất máy tính và người sử dụng
+D. Tất cả đều sai
+Câu 16.	Internet Explorer là:
+A.  Một chuẩn mạng cục bộ
+*B. Trình duyệt Web dùng để hiễn thị các trang Web trên Internet
+C. Bộ giao thức
+D. Thiết bị kết nối mạng
+Câu 17.	Chương trình được sử dụng để xem các trang Web thường được gọi là?
+*A. Trình duyệt Web
+B. Bộ duyệt Web
+C. Chương trình xem Web
+D. Phần mềm xem Web
+Câu 18.	Các trình duyệt Web là:
+*A. Internet Explorer, Opera, Mozilla Firefox
+B. Opera, Fire fox, Notepad
+C. Internet explorer, Notepad, Wordpad
+D. Cả 3 đều sai
+Câu 19.	Những trang web cho đăng ký E-mail miễn phí:
+A. www.thanhnien.com.vn
+*B. www.gmail.com
+C. www.vnn.vn
+D. Cả 3 câu trang Web trên
+Câu 20.	Trong hộp thư điện tử thì Inbox chứa?
+A. Những thư chưa được gửi đi.
+B. Những thư đã được gửi.
+*C. Những thư được gửi đến.
+D. Những thư rác.
+Câu 21.	Trang Web nào dùng để tìm thông tin trên Internet:
+A. www.google.com
+B. www.msn.com
+C. www.yahoo.com
+*D. Cả 3 trang Web trên
+Câu 22.	Tên miền .com (VD : www.mdc.org.vn) là của tổ chức nào?
+A. Tổ chức quân sự
+B. Tổ chức chính phủ
+C. Tổ chức giáo dục
+*D. Tổ chức thương mại
+Câu 23.	WWW viết tắt cho cụm từ:
+A. World Web Wide
+*B. World Wide Web
+C. Wide Web World
+D. Web Wide World
+Câu 24.	Trong những địa chỉ E-mail sau đây địa chỉ nào là hợp lệ:
+*A. abc@vnn.vn
+B. abc@,vnn,vn
+C. abc@.vnn.vn
+D. Cả 3 địa chỉ
+Câu 25.	Giao thức chuyển tệp dữ liệu qua Internet được viết tắt là:
+A. HTTP
+*B. FTP
+C. URL
+D. ISP
+Câu 26.	Khi gửi thư điện tử thông tin nhập trong trường subject cho biết: 
+A. Nội dung thư
+B. Địa chỉ hộp thư của người nhận
+*C. Chủ đề thư
+D. Cả 3 đều sai
+Câu 27.	Tên miền nào dưới đây là hợp lệ? 
+A. www#e-ptit#edu#vn
+*B. www.e-ptit.vn
+C. www.evnpt,vn
+D. Cả 3 đều hợp lệ
+Câu 28.	Địa chỉ IP của một trang web được ánh xạ thành tên miền thông qua hệ thống?
+A. TCP
+*B. DNS
+C. UDP
+D. WINS
+Câu 29.	Mục đích chính của việc đưa ra dịch vụ đánh tên miền là gì?
+*A. Việc nhớ tên miền dễ nhớ hơn địa chỉ IP
+B. Để có thể truy cập vào các website
+C. Để dễ dàng hơn trong việc quản lý các trang web
+D. Để các trang web không bị trùng tên
+Câu 30.	Trong Control Panel của HĐH Window 10, ta có thể : 
+A. Thêm bớt font chữ
+B. Thay đổi ngày giờ hệ thống		
+C. Cài đặt máy in
+*D. Cả 3 câu trên đều đúng
+Câu 31.	Để chuyển đổi giữa các ứng dụng trong Window 10 ta dùng tổ hợp phím: 
+A. ALT + SHIFT
+*B. ALT + TAB
+C. CTRL + TAB
+D. SHIFT + TAB
+
+Câu 32.	Trong HĐH Window 10 để thay đổi ngày giờ hệ thống, ta khởi động biểu tượng nào trong Control Panel: 
+A. Display
+*B. Date and Time
+C. Regional settings	
+D. Tất cả đều sai
+
+Câu 33.	Trong Window Explorer của HĐH Window 10, để chọn nhiều File không liên tục ta kết hợp chuột và phím nào sau đây:
+A. SHIFT + ALT
+B. CTRL + ALT
+C. SHIFT
+*D. CTRL
+
+Câu 34.	Trên HĐH Window 10, tổ hợp phím nào sau đây có tác dụng copy tệp tin hoặc thư mục đang được chọn
+A. Ctrl+X
+B. Ctrl+V
+*C. Ctrl+C
+D. Ctrl+K
+
+Câu 35.	Để cài đặt thêm các bộ Font chữ trong môi trường Windows 10, ta dùng chức năng:
+A. Fonts của My Computer
+B. Regional Settings của My Computer 
+*C. Fonts của Control Panel
+D. Regional Settings của Control Panel
+
+Câu 36.	Với Windows 10 để gỡ bỏ các chương trình đã cài đặt bạn kích chuột vào biểu tượng nào trong Control Panel:
+A. Add / Remove Program
+*B. Program and Features
+C. Add / Remove Features
+D. Program
+
+Câu 37.	Chọn câu thích hợp để phân biệt giữa phần mềm ứng dụng và hệ điều hành: 
+A. Tất cả các phần mềm ứng dụng cần nhiều không gian trong đĩa cứng hơn hệ điều hành để chạy 
+*B. Các phần mềm ứng dụng cần hệ điều hành để chạy 
+C. Hệ điều hành cần phần mềm ứng dụng để chạy 
+D. Tất cả đều sai
+
+Câu 38.	Để khởi động lại máy tính, phát biểu nào dưới đây là đúng: 
+A. Nhấn tổ hợp phím Ctrl + Alt + Del, chọn mục Restart 
+B. Từ cửa sổ màn hình nền nhấn nút Start -> Shutdown, sau đó chọn mục Restart 
+C. Bấm nút Restart trên hộp máy
+*D. Tất cả đều đúng
+
+Câu 39.	Muốn thay đổi giao diện màn hình nền bạn kích chuột vào biểu tượng nào trong Control Panel:
+*A. Persionalization
+B. Theme
+C. Display
+D. System
+
+Câu 40: Phần mềm nào được cài đặt đầu tiên trong máy tính?
+A.Microsoft Office
+B.Windows media Player
+C.Phần mềm gõ bàn phím (Mario)
+D.*Hệ điều hành
+
+Câu 41: Hệ điều hành là gì?
+A.*Phần mềm hệ thống.
+B.Phần mềm ứng dụng của hệ thống.
+C.Phần mềm dùng để tìm kiếm thông tin.
+D.Tất cả điều sai
+
+Câu 42: Nếu máy tính không có hệ điều hành thì:
+A.Máy tính vẫn hoạt động bình thường.
+B.Máy tính chỉ hoạt động trong 1 giờ.
+C.Máy tính chỉ hoạt động trong vài giờ.
+D.*Máy tính không hoạt động
+
+Câu 43: Hệ điều hành được sử dụng phổ biến nhất trên máy tính cá nhân hiện nay là:
+A.*Windows của hãng Microsoft.
+B.Mac OS X.
+C.UBUNTU.
+D.UNIX.
+
+Câu 44: Bạn sẽ sử dụng một hệ điều hành cho những nhiệm vụ nào sau đây? 
+A. Tạo một danh sách liên lạc. 
+B. *Xóa các tập tin trong một thư mục. 
+C. Tính toán giá trị thu được từ một khoản đầu tư. 
+D. Hiệu chỉnh các tập tin âm thanh và video.
+
+Câu 45: Để xem các chương trình được cài đặt trên hệ thống của bạn, với tùy chọn từ nút Start bạn sẽ sử dụng? 
+A. Documents 
+B. *All Programs 
+C. Search 
+D. Danh sách các mục trong Quick Start
+
+Câu 46: Cách tốt nhất để tắt máy tính là gì? 
+A. Nhấn công tắc nguồn trên thùng máy. 
+B.* Chọn Shut down từ nút Start và để cho nó hoàn tất quá trình. 
+C. Nhấn tổ hợp phím CTRL+ALT+DELETE hai lần 
+D. Nhấn ESC.
+
+Câu 47: Khi bạn thấy một tập tin hoặc một thư mục xuất hiện tương tự như hình sau, điều này có ý nghĩa là gì? 
+ 
+A. Tập tin hoặc thư mục sẽ bị xóa. 
+B. *Tập tin hoặc thư mục sẽ đổi tên. 
+C. Tập tin hoặc thư mục sẽ được sao chép. 
+D. Tập tin hoặc thư mục sẽ được in.
+
+Câu 48. Các mục được lưu trong Recycle Bin bao lâu một khi bạn xóa chúng? 
+A. 30 ngày 
+B. 60 ngày 
+C.* Cho tới khi bạn xóa các mục này hoặc làm rỗng Recycle Bin 
+D. Mãi mãi. 
+
+Câu 49: Hệ điều hành nào sau đây không sử dụng cho máy tính
+A. LINUX
+B.*Android
+C. Windows
+D. Unix
+
+Câu 50: Theo nguyên tắc quản lý file, thư mục của hệ điều hành Windows, phát biểu nào sau đây không đúng?
+A.* Trong một thư mục có thể chứa các file và thư mục con khác
+B. Trong một file có thể chứa thư mục
+C. Trong một file có thể chứa các file và thư mục con khác
+D. Tất cả đều không đúng
+
+Câu 51: Muốn xóa vĩnh viễn, không bcần phục hồi các tệp hoặc thư mục được chọn, cần thực hiện thao tác nào sau đây?
+A. Giữ phím Ctrl và nhấn phím Delete
+B. Giữ phím Alt và nhấn phím Delete
+C. *Giữ phím Shift và nhấn phím Delete
+D. Nhấn phím Delete
+Câu 52: Khi đang làm việc với Windows, muốn xem tổ chức các tệp và thư mục trên đĩa, ta có thể sử dụng
+A. My Computer hoặc Recycle Bin
+B. Windows Explorer hoặc Recycle Bin
+C. *My Computer hoặc Windows Explorer
+D. Tất cả đều đúng
+
+Câu 53: Các tệp sau khi được chọn và xóa bằng tổ hợp phím Shift + Delete
+A. Có thể được phục hồi khi mở Recycle Bin
+B. Có thể được phục hồi khi mở My Documents
+C. *Không thể phục hồi được nữa
+D. Cả 3 đều đúng
+
+Câu 54: Kiểu nhập dữ liệu ngày tháng được hệ điều hành qui định trong
+A. Control Panel - System
+B. Control Panel - Date and Time
+C. *Control Panel – Clock and region
+C. Control Panel – Font
+
+Câu 55: Phần mở rộng của tệp tin ngăn cách nhau bởi dấu?
+A. ?
+B. @
+*C. .
+D. không có đáp án đúng 
+
+Câu 56: Chương trình nào sau đây trong hệ điều hành Windows cho phép thiết lập các thông số môi trường làm việc.
+A.* System Restore
+B. Control Panel
+C. System Infomations
+D. Window Explore
+
+Câu 57. Trong Microsoft Word 2010 để in trang 2,3,4,9,15,21,22,23, bạn nhập vào mục Pages trong File/Print/Settings như sau:
+A. 2,3,4,9-23
+B. 2,3,4-22,23
+C. 2-23
+*D. 2-4,9,15,21-23
+
+Câu 58.	Trong Microsoft Word 2010 có tính năng tạo chữ to hay tạo chữ nhấn mạnh, đây là cách người ta làm cho chữ cái ở đầu câu được phóng to và thả xuống. Công cụ đó có tên gọi là
+A. Word Art
+B.  Text Box
+*C. Drop Cap
+D. Grow Font
+Câu 59.	Trong chế độ tạo bảng (Table) của phần mềm Microsoft Word 2010, để tách một ô thành nhiều ô, ta thực hiện : Chọn các ô cần tách, rồi chọn menu lệnh
+*A. Layout/Split cells
+B. Home/Split cells
+C. Insert/Split cells
+D. Page layout/ Split cells
+Câu 60.	Trong Microsoft Word 2010, ta làm cách nào để ngắt trang văn bản?
+*A. Ấn tổ hợp phím Ctrl + Enter
+B. Ấn tổ hợp phím Shift + Enter.
+C. Vào menu Insert -> Cover Page
+D. Vào menu Insert -> Page Number
+Câu 61.	Tổ hợp phím tắt  Ctrl + Home  trong Microsoft Word 2010 có tác dụng :
+A. Di chuyển con trỏ tới trang tiếp theo
+B. Di chuyển con trỏ xuống dòng tiếp.
+C. Di chuyển con trỏ tới cuối cuối văn bản.
+*D. Di chuyển con trỏ tới đầu văn bản.
+
+Câu 62.	Để chèn 1 hình vẽ trong Microsoft Word 2010, đặt con trỏ vào vị trí muốn chèn, chọn Insert, sau đó chọn:
+A. Picture
+B. Clip Art
+*C. Shapes
+D. Chart
+
+Câu 63.	Khi đang soạn thảo văn bản trong Microsoft Word 2010, muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím:
+*A. Ctrl + Z
+B. Ctrl + X
+C. Ctrl + V
+D. Ctrl + Y
+
+Câu 64.	Trong Microsoft Word 2010 để soạn thảo chỉ số trên cho chữ, bạn sử dụng phím tắt
+A. ctrl + =
+B. ctrl+alt+=
+C. ctrl+alt+shift+=
+*D. ctrl+shift+=
+
+Câu 65.	Trong chế độ tạo bảng (Table) của phần mềm Microsoft Word 2010, để gộp nhiều ô thành một ô, ta thực hiện: Chọn các ô cần gộp, rồi chọn menu lệnh
+*A. Layout/Merge cells
+B. Home/Merge cells
+C . Insert/Merge cells
+D. Page layout/ Merge cells
+
+Câu 66.	Trong phần File/ Print của Microsoft Word 2010 mục Copies có chức năng gì?   
+A. Nhập số dòng in
+B. Nhập số trang in
+*C. Nhập số bản in
+D. Nhập số cột in
+
+Câu 67 : Trong Word 2010, thẻ Insert cho phép ta sử dụng các chức năng :
+A. Thiết lập cài đặt, định dạng cho trang giấy như : Page Setup, Page Boders, Page Color, Paragrah,…
+B. *Chèn các đối tượng đặc biệt vào văn bản như : Picture, Equation, Symbol, Chart, Table,…
+C. Định dạng văn bản như : chèn chú thích, tạo mục lục tự động,…
+D. Thêm chức năng kiểm tra lại như : ngữ pháp, chính tả,…
+
+Câu 68: Trong Word 2010, để chèn biểu đồ vào văn bản, ta thực hiện :
+A. Thẻ References – Illustrations – Chart
+B.* Thẻ Insert - Illustrations – Chart
+C. Thẻ Mailings - Illustrations – Chart
+D. Thẻ Review - Illustrations – Chart
+
+Câu 69: Trong MS Word 2010 để chèn một chữ nghệ thuật vào văn bản ta gọi lệnh gì?
+A. Tại the Insert, nhấp nút QuickPart
+ B. Tại thẻ Insert, nhấp nút ClipArt
+ C. *Tại thẻ Insert, nhấp nút WordArt
+ D. Tại thẻ Insert, nhấp nút Equation
+
+Câu 70: Muốn thêm 1 hình ảnh có sẵn vào trang văn bản trong Word 2010, ta cần thực hiện thao tác gì ?
+A. Thẻ Insert - Illustrations – Shapes 
+B. Thẻ Insert - Illustrations – Clip Art
+C. Thẻ References – Illustrations – Picture
+D.* Thẻ Thẻ Insert -  Illustrations – Picture
+
+Câu 71. Phát biểu nào sau đây là đúng ?
+A.*Muốn tạo các công thức toán học trong Word 2010, ta có thể tìm đến tab Symbol trong thẻ Insert của thanh công cụ Ribbon.
+B. Khi chèn thêm hình ảnh vào trang văn bản trong Word 2010, ta không cần căn chỉnh vì phần mềm sẽ tự thực hiện việc này.
+C. Shapes là các hình ảnh minh họa được Microsoft cung cấp sẵn với nhiều chủ đề khác nhau.
+D. Muốn tạo các sơ đồ, các khối hình minh họa trong Word 2010, ta có thể tìm đến đối tượng ClipArt trong tab Illustrations của thẻ Insert.
+
+Câu 72. Trong Word 2010, để thực hiện vẽ các đường thẳng, ô vuông, ta thực hiện : 
+A. View – Toolbars – Drawing
+B. View – Toolbars – Standard
+C. *Insert – Illustrations – Shapes
+D. Insert – Illustrations – Lines
+
+Câu 73. Trong Word 2010, muốn chèn ký tự đặc biệt vào văn bản, ta  thực hiện : 
+A. Insert – Filed
+B. Insert – Frame
+C. Insert – Chart
+D.* Insert – Symbol
+
+Câu 74. Trong Word 2010, thao tác Insert – WortArt để :
+A.* Chèn chữ nghệ thuật.
+B. Tạo chữ điểm nhấn lớn hơn bình thường như cách trình bày trong cột báo.
+C. Chỉnh sửa định dạng cho các ký tự đặc biệt.
+D. Không có đáp án đúng.
+
+Câu 75. Muốn thực hiện thêm nhóm ký tự “ X → Y” vào văn bản Word 2010, ta cần tìm đến chức năng gì ?
+A. *Chức năng Equation trong thẻ Insert của thanh Ribbon.
+B. Chức năng Symbol trong thẻ Insert của thanh Ribbon.
+C. Chức năng Shapes trong thẻ Insert của thanh Ribbon.
+D. Chức năng Footer trong thẻ Insert của thanh Ribbon.
+
+Câu 76. Trong Word, để soạn thảo một công thức toán học phức tạp, ta thường dùng công cụ:
+A. *Microsoft Equation
+ B. Ogranization Art
+ C. Ogranization Chart
+ D. Word Art
+
+Câu 77. Trong soạn thảo Word, muốn chèn các kí tự đặc biệt vào văn bản, ta thực hiện:
+A. View - Symbol
+ B. Format - Symbol
+ C. Tools - Symbol
+ D. *Insert – Symbol
+
+Câu 78. Trong soạn thảo văn bản Word, muốn tạo ký tự Hoa đầu dòng của đoạn văn, ta thực hiện:
+A. Format - Drop Cap
+ B. *Insert - Drop Cap
+ C. Edit - Drop Cap
+ D. View - Drop Cap
+
+Câu 79. Để có thể kết hợp chọn nhiều vùng cùng lúc trên MS Excel ta nhấn tổ hợp phím nào trong khi chọn
+   A. Alt 
+   B. Shift
+* C. Ctrl 	
+   D. Esc
+
+Câu 80. Trong MS Excel 2010, khi cần hiệu chỉnh dữ liệu trong ô đang chọn ta có thể nhấn phím gì?
+   A.ESC
+   B.Enter
+* C.F2			
+   D.Delete
+
+Câu 81. Trong MS Excel 2010; sau khi nhập dữ liệu cho một ô, để chuyển con trỏ sang ô bên phải thì nhấn phím?
+   A.Delete
+   B.Enter
+* C.Tab		
+   D.Esc
+
+Câu 82. Trong MS Excel 2010, để di chuyển con trỏ đên ô cuối cùng của dòng dữ liệu ta sử dụng cách nào sau đây?
+   A.Nhấn End và phím mũi tên sang phải (->)
+   B.Nhấn End và phím mũi tên sang trái (<-)
+* C.Nhấn Ctrl –End				
+   D.Nhấn Ctrl- Home
+
+Câu 83. Trong MS Excel 2010, để chọn toàn bộ nội dung thì nhấn tổ hợp phím nào?
+   A.Ctrl -Alt-A
+   B.Shift –A
+* C.Ctrl –A		
+   D.Shift - Ctrl -A
+
+Câu 84. Khi dữ liệu trên một ô chuyển thành dãy các ký hiệu dấu ##### cho ta biết điều gì?
+  A. Tên hàm trong công thức bị sai
+  B. Xảy ra lỗi khi tham chiếu dữ liệu
+*C. Độ rộng của cột không đủ rộng để hiển thị		
+  D. Địa chỉ tham chiếu không có thực
+
+Câu 85. Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối? 
+  A.  B0:D 
+  B.  $B1:$B10 
+  C.  B0$:D$ 
+*D.  $A$10:$D$10		
+
+Câu 86. Trong bảng tính MS Excel 2010, để chèn hình ảnh, ta thực hiện: 
+  A.  Thẻ Fumulas – Picture 
+  B.  Thẻ Data – Picture 
+*C.  Thẻ Insert – Picture 			
+  D.  Thẻ Review – Picture
+
+Câu 87. Trong bảng tính MS  Excel 2010, để tách dữ  liệu trong một  ô thành hai hoặc nhiều ô, ta thực hiện trên: 
+  A.  Thẻ Insert 
+*B.  Thẻ Home 		
+  C.  Thẻ Fomulas 
+  D.  Thẻ Data 
+
+Câu 88. Trong bảng tính MS Excel 2010, để thay đổi kiểu trang in ngang hoặc dọc, ta thực hiện: 
+*A.  Thẻ Page Layout – Orientation – Portrait/Landscape 		
+  B.  Thẻ File – Page Setup – Portrait/Landscape 
+  C.  Thẻ Format - Page Setup – Portrait/Landscape 
+  D.  Thẻ Home - Orientation – Portrait/Landscape
+
+Câu 89. Để chèn thêm Sheet trong Excel ta đứng tại vị trí các Sheet kích chuột phải và chọn
+* A. Insert\Work Sheet     	
+   B. ReName
+   C. Delete                    
+   D. Move or copy
+
+Câu 90. Để đổi tên một Sheet trong Excel ta đứng tại Sheet đó kích chuột phải và chọn
+   A. Insert\Work Sheet          
+* B. Rename		
+  C. Delete                    
+  D. Move or copy
+
+Câu 91. Microsoft Excel là :
+   A. Một hệ điều hành            
+   B. Chương trình dùng để soạn thảo văn bản
+   C. Chương trình đồ họa          
+* D. Chương trình dùng để xử lí bảng tính		
+
+Câu 92. Trong Microsoft Excel muốn bật tắt thanh công thức ta chọn :
+* A. View\Formula Bar           			
+   B. View\Toolbars\Formula Bar
+   C. Tools\Options\View          
+   D. các ý trên đều đúng
+
+Câu 93.	Trong Microsoft PowerPoint 2010, để định dạng dòng chữ “Giáo án điện tử” thành “Giáo án điện tử” (kiểu chữ đậm, nghiêng, gạch dưới), toàn bộ các thao tác phải thực hiện là
+A. đưa con trỏ văn bản vào giữa dòng chữ đó, nhấn Ctrl + U, Ctrl + I và Ctrl + B 
+B. đưa con trỏ văn bản vào giữa dòng chữ đó, nhấn Ctrl + B, Ctrl + U và Ctrl + I
+*C. chọn dòng chữ đó, nhấn Ctrl + U, Ctrl + I và Ctrl + B
+D. nhấn Ctrl + U, Ctrl + I và  Ctrl + B
+Câu 94.	Trong Microsoft PowerPoint 2010, để tạo một slide giống hệt như slide hiện hành mà không phải thiết kế lại, người sử dụng
+A. chọn Insert -> Duplicate
+B. chọn Insert -> New Slide
+*C. Click chuột phải vào một trong các Silde đã chọn và  chọn Duplicate Slide
+D. không thực hiện được
+Câu 95.	Trong Microsoft PowerPoint 2010, để thực hiện việc chèn bảng biểu vào slide ta phải
+A. chọn Table -> Insert Table 
+B. chọn Table -> Insert
+*C. chọn Insert -> Table
+D. chọn Format -> Table
+Câu 96.	Khi đang làm việc với Microsoft PowerPoint 2010, để chèn thêm một Slide mới, ta thực hiện:
+*A. Home -> New Slide
+B. Review -> New Slide
+C. Slide Show -> New Slide
+D. Design - New Slide
+Câu 97.	Tệp tin trình chiếu trong Microsoft PowerPoint 2010 có phần mở rộng là:
+*A. pptx
+B. pps
+C. ppa
+D. ppt
+Câu 98.	Trong Microsoft PowerPoint 2010 thao tác nào sau đây không dùng để tạo một bài thuyết trình mới:
+A. Nhấn nút New trên tab Home
+B. Vào File, chọn New
+*C. Nhấn tổ hợp phím Alt + N
+D. Nhấn tổ hợp phím Ctrl + N
+Câu 99.	Trong Microsoft PowerPoint 2010 hiệu ứng được sử dụng khi chuyển các Slide trong một bài thuyết trình được gọi là:
+*A. Transitions
+B. Effects
+C. Custom animations
+D. Animations
+Câu 100.	Trong Microsoft PowerPoint 2010 hiệu ứng cho các đối tượng trong một bài thuyết trình được gọi là:
+A. Transitions
+B. Effects
+C. Custom animations
+*D. Animations
+Câu 101.	Trong Microsoft PowerPoint 2010, Slide dùng để giới thiệu chủ đề cho bài thuyết trình được gọi là:
+A. Table Slide
+B. Graph Slide
+*C. Title Slide
+D. Master Slide
+
+Câu 102.	 PowerPoint có thể làm những gì?
+A.	*Tạo các bài trình diễn trên màn hình
+B.	In các trang ảnh màu hoặc trắng đen
+C.	Tạo các file cho khách dự hội thảo
+D.	Tất cả các phương án trên.
+Câu 103.	 Để khởi động Powerpoint, ta thực hiện:
+A.	* Start \ All Program \ Microsoft Office \ Microsoft Powerpoint
+B.	Start \ All Program \ Accessories \ Microsoft Powerpoint
+C.	Nhắp đơn chuột vào biểu tượng Microsoft Powerpoint
+D.	Câu A và D đều đúng
+Câu 104.	 Trong Powerpoint có thể tạo một bản trình diễn mới từ:
+A.	Sử dụng một trình diễn trống (Use Blank)
+B.	Sử dụng một trình diễn có sẵn (Design Template)
+C.	Sử dụng một trình dựa trên một trình diễn có sẵn
+D.	Tất cả các phương án trên.
+Câu 105.	 Mỗi trang trình diễn trong PowerPoint được gọi là:
+A.	Một Document
+B.	*Một Slide
+C.	Một File
+D.	Tất cả các câu trên đều sai.
+Câu 106.	 Trong PowerPoint khi dùng chế độ hiển thị Reading view thì: 
+A.	*Hiển thị bài trình diễn dưới dạng đọc sách
+B.	Giúp ích cho việc nhập, hiệu chỉnh và tổ chức văn bản một cách nhanh chóng. 
+C.	Kéo và thả các slide hoặc các nút đầu dòng để sắp xếp lại các đoạn văn bản (dàn bài).
+D.	Tất cả các phương án trên.
+
+Câu 107.	 Trong PowerPoint khi dùng chế độ hiển thị Slide Sorter View thì: 
+A.	*Chế độ này hiển thị tất cả các slide trong bài trình diễn dưới dạng các hình nhỏ.
+B.	Bài trình diễn sẽ chiếu ở chế độ toàn màn hình với các hiệu ứng hoạt hình và các phép biến đổi sinh động.
+C.	Để xem trước và diễn tập bài trình diễn trước khi trình chiếu.
+D.	Tất cả các phương án trên đều đúng
+Câu 108.	 Trong PowerPoint khi dùng chế độ hiển thị Slide Show View thì: 
+A.	Được sử dụng để trình chiếu bài trình diễn lúc báo cáo trước khách dự hội thảo.
+B.	Để xem trước và diễn tập bài trình diễn trước khi trình chiếu.
+C.	Bài trình diễn sẽ chiếu ở chế độ toàn màn hình với các hiệu ứng hoạt hình và các phép biến đổi sinh động.
+D.	*Tất cả các phương án trên.
+Câu 109.	 Trong Powerpoint, muốn xoá 1 slide, ta dùng lệnh nào sau đây:
+A.	Edit \ Delete Slide
+B.	File \ Delete Slide
+C.	Câu A và B đều đúng
+D.	*Tất cả đều sai
+Câu 110.	 Trong Powerpoint để có thêm một Slide lên tệp trình diễn đang mở, ta làm như sau:
+A.	Kích Insert sau đó chọn New Slide
+B.	Bấm tổ hợp phím Ctrl + M
+C.	Chọn một mẫu Slide sau đó bấm Enter
+D.	Các câu trên đều đúng
+Câu 111.	 Trong Powerpoint muốn đánh số cho từng Slide, ta dùng lệnh nào sau đây:
+A.	Insert + Bullets and Numbering
+B.	*Insert + Slide Number
+C.	Format + Bullets and Numbering
+D.	Các câu trên đều sai
+Câu 112.	 Trong Powerpoint muốn chèn các Slide từ 1 tập tin khác vào tập tin đang mở, ta dùng lệnh hay thao tác nào sau đây:
+A.	* Insert \ Slides from Files
+B.	File \ Import
+C.	Insert \ Duplicate Slide
+D.	Insert \ New Slide
+Câu 113.	 Trong Powerpoint muốn chèn một công thức toán học vào Slide, ta dùng lệnh hay tổ hợp phím nào sau đây:
+A.	Insert \ Object
+B.	Insert \ Component
+C.	Insert \ Diagram
+D.	* Insert \ Equation 
+Câu 114.	 Trong Powerpoint muốn chèn một table vào Slide, ta dùng lệnh gì hay tổ hợp phím nào sau đây:
+A.	Table \ Insert Table
+B.	Insert \ Table
+C.	Câu A và B đều sai
+D.	Câu A và B đều đúng
+Câu 115.	 Trong Powerpoint muốn thêm các Header và Footer vào các slide ta thực hiện:
+A.	* Insert  \ Header and Footer
+B.	View  \ Header and Footer
+C.	View \ Notes Page
+D.	Các câu trên đều sai
+Câu 116.	 Trong Powerpoint muốn thêm một Slide mới giống với một Slide đã tạo, ta dùng lệnh hay thao tác nào:
+A.	Insert \ New Slide
+B.	File \ New Slide
+C.	* Nhắp chuột vào Slide đã tạo\kích chuột phải \ Duplicate Slide
+D.	Insert \ Duplicate
+Câu 117.	 Trong Powerpoint muốn chọn font chữ ta dùng lệnh nào sau đây:
+A.	Format \ Font
+B.	Format \ Border and Shading
+C.	Insert \ Bullets and Numbering
+D.	* Home \ Font
+Câu 118.	 Trong Powerpoint muốn chèn một textbox vào Slide ta dùng lệnh nào sau đây:
+A.	Format \ Textbox
+B.	Insert \ Component
+C.	Insert \ Textbox
+D.	Insert \ Symbol
+Câu 119.	 Trong Powerpoint muốn thêm một Slide mới ta dùng lệnh nào sau đây:
+A.	Insert \ New Slide
+B.	Home \ New Slide
+C.	Insert \ Dupplicate Slide
+D.	Các câu trên đều sai
+Câu 120.	 Trong Powerpoint muốn tô nền cho từng Slide, ta dùng lệnh nào hay thao tác nào sau đây:
+A.	* Design \ Background styles
+B.	Kích biểu tượng Fill Color
+C.	Câu A và B đều đúng
+D.	Câu A và B đều sai
+Câu 121.	 Trong Powerpoint để in trang trình chiếu ra giấy, ta thực hiện:
+A.	File \ Page Setup
+B.	* File \ Print
+C.	File \ Print Preview
+D.	Các câu trên đều sai
+Câu 122.	 Để in nội dung các slide ra máy in, ta thực hiện lệnh in bằng cách:
+A. Kích chọn File \ Print
+B. Bấm tổ hợp phím Ctrl + P
+C. Kích chọn Insert \ Print
+D. * Câu A và B đều đúng
+Câu 123.	 Để thiết lập một Slide Master, ta thực hiện:
+A.	File \ Master \ Slide Master
+B.	* View \ Slide Master
+C.	View \ Master \ Handout Master
+D.	View \ Master \ Notes Master
+Câu 124.	 Trong Powerpoint muốn tạo một hiệu ứng cho các đối tượng trong 1 slide, ta dùng lệnh lệnh nào sau đây:
+A.	* Kích vào thực đơn Animations
+B.	Slide Show Custom Animation
+C.	Câu A và B đều đúng
+D.	Câu A và B đều sai
+Câu 125.	 Trong Powerpoint muốn hiển thị các slide dưới dạng sắp xếp các slide ta dùng lệnh nào sau đây:
+A.	Insert \ New Slide
+B.	File \ New
+C.	* View \ Slide Sorter
+D.	Các câu trên đều sai
+
+Câu 126. Phát biểu nào sau đây là đúng nhất?
+*A. Hiệu ứng cho slide là các hiệu ứng khi chuyển slide này sang slide khác.
+B. Hiệu ứng cho slide là các hiệu ứng khi chuyển slide.
+C. Hiệu ứng cho slide là các hiệu ứng khi chuyển động của slide.
+D. Hiệu ứng cho slide là các hiệu ứng xuất hiện slide
+
+Câu 127.	 Để tạo hiệu ứng chuyển slide này sang slide khác ta 
+A. Chọn thẻ Animations
+*B. Chọn thẻ Transitions
+C. Chọn thẻ slide show
+D. Chọn thẻ Design
+
+Câu 128.	Trong Power Point hệu ứng chuyển từ slide này sang slide khác được chia làm mấy nhóm chính
+A. 2
+*B. 3
+C. 4
+D. 5
+
+Câu 129.	Để chuyển slide khi kích chuột trong nhóm timing ta chọn 
+*A. On Mouse Click
+B. In Mouse Click
+C. After Mouse Click
+D. Under Mouse Click
+
+Câu 130.	Để chuyển slide này sang slide khác sau thời gian 2 giây trong nhóm timing ta gõ:
+A. Thời gian vào hộp Under
+B. Thời gian vào hộp Duration
+*C. Thời gian vào hộp After
+D. Thời gian vào hộp Afters
+
+Câu 131.	Để tạo hiệu ứng cho đối tượng → ta chọn đối tượng cần thêm hiệu ứng rồi chọn thẻ
+*A. Animations → Chọn hiệu ứng mong muốn
+B. Transitions → Chọn hiệu ứng mong muốn
+C. Slide Show → Chọn hiệu ứng mong muốn
+D. Design → Chọn hiệu ứng mong muốn
+
+Câu 132.	Trong Power Point hiệu ứng xuất hiện đối tượng được chia làm mấy nhóm chính
+A. 3
+*B. 4
+C. 5
+D. 6
+
+Câu 133.	Để mở hộp thoại để quản lý hiệu ứng cho đối tượng của slide ta chọn
+A. Add Animation
+B. Animation Painter
+C. Advanced Animation
+*D. Animation Pane
+
+Câu 134.	 Muốn tắt hiệu ứng chuyển trang trong nhóm Transition to This Slide ta chọn
+*A. None
+B. Nones
+C. Cut
+D. Exit
+
+Câu 135.	Muốn sao chép hiệu ứng cho đối tượng trong nhóm Advanced Animation ta chọn 
+A. Animation Pane
+B. Add Animation
+C. Trigger
+*D. Animation Painter
+
+Câu 136.	Để tạo hiệu ứng chuyển slide này sang slide khác ta 
+A. Chọn thẻ Animations
+*B. Chọn thẻ Transitions
+C. Chọn thẻ slide show
+D. Chọn thẻ Design
+
+Câu 137.	Trong Power Point hệu ứng chuyển từ slide này sang slide khác được chia làm mấy nhóm chính
+A. 2
+*B. 3
+C. 4
+D. 5
+
+Câu 138.	Để chuyển slide khi kích chuột trong nhóm timing ta chọn 
+*A. On Mouse Click
+B. In Mouse Click
+C. After Mouse Click
+D. Under Mouse Click
+
+Câu 139.	Để chuyển slide này sang slide khác sau thời gian 2 giây trong nhóm timing ta gõ:
+A. Thời gian vào hộp Under
+B. Thời gian vào hộp Duration
+*C. Thời gian vào hộp After
+D. Thời gian vào hộp Afters
+
+Câu 140.	Để tạo hiệu ứng cho đối tượng → ta chọn đối tượng cần thêm hiệu ứng rồi chọn thẻ
+*A. Animations → Chọn hiệu ứng mong muốn
+B. Transitions → Chọn hiệu ứng mong muốn
+C. Slide Show → Chọn hiệu ứng mong muốn
+D. Design → Chọn hiệu ứng mong muốn
+
+Câu 141.	Trong Power Point hiệu ứng xuất hiện đối tượng được chia làm mấy nhóm chính
+A. 3
+*B. 4
+C. 5
+D. 6
+
+Câu 142.	Để mở hộp thoại để quản lý hiệu ứng cho đối tượng của slide ta chọn
+A. Add Animation
+B. Animation Painter
+C. Advanced Animation
+*D. Animation Pane
+
+Câu 143.	Muốn tắt hiệu ứng chuyển trang trong nhóm Transition to This Slide ta chọn
+*A. None
+B. Nones
+C. Cut
+D. Exit
+
+Câu 144.	Muốn sao chép hiệu ứng cho đối tượng trong nhóm Advanced Animation ta chọn 
+A. Animation Pane
+B. Add Animation
+C. Trigger
+*D. Animation Painter
+ 

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+</head>
+<body>
+    <h1>Quiz</h1>
+    <form action="{{ url_for('submit') }}" method="post">
+        {% for i in range(câu_hỏi|length) %}
+            <h2>{{ câu_hỏi[i] }}</h2>
+            {% for answer in đáp_án[i] %}
+                <input type="radio" name="{{ i }}" value="{{ answer[0] }}" required> {{ answer }}<br>
+            {% endfor %}
+        {% endfor %}
+        <input type="submit" value="Gửi">
+    </form>
+</body>
+</html>

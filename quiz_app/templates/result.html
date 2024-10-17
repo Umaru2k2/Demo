@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kết quả Quiz</title>
+</head>
+<body>
+    <h1>Kết quả Quiz</h1>
+    <p>Điểm số của bạn là: {{ score }}/{{ total }}</p>
+    
+    {% if incorrect_answers %}
+        <h2>Đáp án sai:</h2>
+        <ul>
+            {% for item in incorrect_answers %}
+                <li>
+                    <strong>{{ item.question }}</strong><br>
+                    Đáp án của bạn: {{ item.user_answer }}<br>
+                    Đáp án đúng: {{ item.correct_answer }}<br>
+                    Các đáp án: 
+                    <ul>
+                        {% for answer in item.answers %}
+                            <li>{{ answer }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Tất cả đều đúng!</p>
+    {% endif %}
+    
+    <a href="{{ url_for('index') }}">Làm lại Quiz</a>
+</body>
+</html>
